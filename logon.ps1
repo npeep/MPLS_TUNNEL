@@ -66,6 +66,7 @@ If($events) {
         $Results | Sort Time -Descending | Out-GridView
     }
 }
+#TEST
 <#Logon types possible:
 
 Logon Type- Description
